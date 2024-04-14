@@ -1,20 +1,15 @@
 
-### Hi there 👋
-- 🏫 I am a Ph.D. student at IMAG Lab, Nanjing University of Science & Technology, supervised by Prof. [Jinshan Pan](https://jspan.github.io/).
-- 📔 I’m currently working on low-level vision problems, especially image/video super-resolution, deblurring.
-
+### Hi there
+-  I am a Ph.D. student at Intelligent Media Analysis Group (IMAG) Lab, Nanjing University of Science & Technology, supervised by Prof.[Xiangbo Shu](https://shuxb104.github.io/).
+-  I am currently working on Video understanding , especially Medical Video analysis.
 ### Academic Services
 - Conference Reviewer
-  - NeurIPS 2023
-  - ICML 2024
-  - ICLR 2024 
-  - CVPR 2022, 2023(**Outstanding Reviewer**), 2024 
-  - ECCV 2022, 2024 
+  - CVPR 2023
   - ICCV 2023 
-  - AAAI 2023, 2024
-  - WACV 2024
+  - ECCV 2024 
+  - MM   2024 
+  - ACCV 2024
 - Journal Reviewer
-  - IJCV 
-  - CVIU
-  - TCYB
-  - TIP
+  - TCSVT 
+  - JVCI
+
