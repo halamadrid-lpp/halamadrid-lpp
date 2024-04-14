@@ -1,6 +1,6 @@
 
 ### Hi there
--  I am a Ph.D. student at Intelligent Media Analysis Group (IMAG) Lab, Nanjing University of Science & Technology, supervised by Prof.[Xiangbo Shu](https://shuxb104.github.io/).
+-  I am a Ph.D. student at Intelligent Media Analysis Group (IMAG) Lab, Nanjing University of Science & Technology, supervised by Prof. [Xiangbo Shu](https://shuxb104.github.io/).
 -  I am currently working on Video understanding , especially Medical Video analysis.
 ### Academic Services
 - Conference Reviewer
