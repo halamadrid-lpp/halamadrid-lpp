@@ -8,10 +8,11 @@
   - ICCV   2023 
   - ECCV   2024 
   - ACMMM  2024 
-  - ACCV   2024
   - ICLR   2025
+  - ACCV   2024
 - Journal Reviewer
-  - TCSVT
-  - TNNLS
-  - JVCI
+  - EEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - Journal of Visual Communication and Image Representation
+  - Pattern Analysis and Applications
 
